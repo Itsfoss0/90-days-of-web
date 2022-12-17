@@ -8,4 +8,4 @@ The interhet is widely used today by averagely about 82% of the universe. I thou
 ## Resources 
 1. [Google](https://www.google.com/search?q=how+the+internet+works)
 2. [Youtube](https://www.youtube.com/results?search_query=how+the+internet+works)
-3. [How the internet works](https://www.hp.com/us-en/shop/tech-takes/how-does-the-internet-work)
+3. [How the internet]
