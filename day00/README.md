@@ -4,3 +4,8 @@ The very first day of my 90 days of web journey -Exploring how the internet work
 
 ## Intro
 The interhet is widely used today by averagely about 82% of the universe. I thought for a moment, how would life be in this century without the internet ? And felt so complelled to undertand how this bad boy works
+
+## Resources 
+1. [Google](https://www.google.com/search?q=how+the+internet+works)
+2. [Youtube](https://www.youtube.com/results?search_query=how+the+internet+works)
+3. [How the internet works](https://www.hp.com/us-en/shop/tech-takes/how-does-the-internet-work)
