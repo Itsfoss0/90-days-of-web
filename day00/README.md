@@ -1,9 +1,9 @@
 ![Image](https://store.hp.com/app/assets/images/uploads/prod/how-does-the-internet-work-hero1559004884280.jpg)
 ## Day 00 of 90 
-The very first day of my 90 days of web journey -Exploring how the internet works 
+Where to Begin? Day 00 of the 90 days of web. Getting to undertand what the internet is, how and why it came around and the have a high level view of how it works 
 
 ## Intro
-The internet is widely used today by averagely about 82% of the universe. I thought for a moment, how would life be in this century without the internet ? And felt so complelled to undertand how this bad boy works
+The internet is widely used today by averagely about 82% of the universe. I thought for a moment, how would life be in this century without the internet ? And felt so complelled to understand how it works. 
 
 ## Resources 
 1. [Google](https://www.google.com/search?q=how+the+internet+works)
