@@ -17,3 +17,7 @@ By the end of this session, you should be able to explain this concepts to a fiv
 * [X] A brief history of the internet
 * [X] How the internet works 
 * [X] The internet infrustructure
+* [X] Difference between the internet and the web 
+* [X] Protocol stacks and packets
+* [X] Internet routing hierarchy 
+* [X] How to use ```ping``` and ```traceroute``` commands and what happens in the hood when used 
