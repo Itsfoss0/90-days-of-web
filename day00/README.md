@@ -21,3 +21,6 @@ By the end of this session, you should be able to explain this concepts to a fiv
 * [X] Protocol stacks and packets
 * [X] Internet routing hierarchy 
 * [X] How to use ```ping``` and ```traceroute``` commands and what happens in the hood when used 
+* [X] Domain Names, DNS Servers and name resolutions
+* [X] Buzzwords 
+        - IXP
