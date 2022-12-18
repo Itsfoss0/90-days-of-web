@@ -10,6 +10,8 @@ The internet is widely used today by averagely about 82% of the universe. I thou
 2. [Youtube](https://www.youtube.com/results?search_query=how+the+internet+works)
 3. [The Internet explained](https://www.vox.com/2014/6/16/18076282/the-internet)
 4. [How does the internet work](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+6. [Introduction to the Internet](https://roadmap.sh/guides/what-is-internet)
+7. [The Internet if 5 minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 5. [The Internet Engineering Task Force](https://www.ietf.org/)
 
 
