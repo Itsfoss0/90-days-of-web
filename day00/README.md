@@ -53,3 +53,6 @@ Addison-Wesley, Reading, Massachusetts. 1994.
 4. Data Communications, Computer Networks and Open Systems. Fourth Edition.
 Fred Halsall.
 Addison-Wesley, Harlow, England. 1996. 
+5. Telecommunications: Protocols and Design.
+John D. Spragins with Joseph L. Hammond and Krzysztof Pawlikowski.
+Addison-Wesley, Reading, Massachusetts. 1992. 
