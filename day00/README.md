@@ -38,3 +38,9 @@ By the end of this session, you should be able to explain this concepts to a fiv
 - The internet came about as a research project of the APARNET for military use in the US, then it was adopted to connect major universities in the 1970's 
 - The internet is not owned or regulated by anyone or any organizations. Some organizations like the IEFT and ICANN are however responsible for standardization in of the internet. 
 - 
+
+## Bibliography 
+I found the following books and materials intriguing. Be sure the check 'em out. 
+1.  TCP/IP Illustrated, Volume 1, The Protocols.
+W. Richard Stevens.
+Addison-Wesley, Reading, Massachusetts. 1994. 
