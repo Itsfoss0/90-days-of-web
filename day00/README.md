@@ -1,4 +1,5 @@
-![Image](https://store.hp.com/app/assets/images/uploads/prod/how-does-the-internet-work-hero1559004884280.jpg)
+![Internet](../avatar.jpg)
+
 ## Day 00 of 90 
 Where to Begin? Day 00 of the 90 days of web. Getting to undertand what the internet is, how and why it came around and the have a high level view of how it works 
 
