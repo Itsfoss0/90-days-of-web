@@ -44,3 +44,6 @@ I found the following books and materials intriguing. Be sure the check 'em out.
 1.  TCP/IP Illustrated, Volume 1, The Protocols.
 W. Richard Stevens.
 Addison-Wesley, Reading, Massachusetts. 1994. 
+2. Encyclopedia of Networking.
+Tom Sheldon.
+Osbourne McGraw-Hill, New York. 1998. 
