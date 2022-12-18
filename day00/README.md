@@ -23,9 +23,9 @@ By the end of this session, you should be able to explain this concepts to a fiv
 * [X] Internet routing hierarchy 
 * [X] How to use ```ping``` and ```traceroute``` commands and what happens in the hood when used 
 * [X] Domain Names, DNS Servers and name resolutions
-* [X] IXP
-* [X] ISP
-* [X] NSP
-* [X] IP Addresses
-* [X] NAP
-* [X] MAE 
+* [X] what is IXP
+* [X] What is ISP
+* [X] What is NSP
+* [X] What are IP Addresses
+* [X] What is NAP
+* [X] What is MAE 
