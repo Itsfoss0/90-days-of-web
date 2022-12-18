@@ -47,3 +47,9 @@ Addison-Wesley, Reading, Massachusetts. 1994.
 2. Encyclopedia of Networking.
 Tom Sheldon.
 Osbourne McGraw-Hill, New York. 1998. 
+3. Firewalls and Internet Security; Repelling the Wiley Hacker.
+William R. Cheswick, Steven M. Bellovin.
+Addison-Wesley, Reading, Massachusetts. 1994. 
+4. Data Communications, Computer Networks and Open Systems. Fourth Edition.
+Fred Halsall.
+Addison-Wesley, Harlow, England. 1996. 
