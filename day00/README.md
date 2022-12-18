@@ -10,6 +10,7 @@ The internet is widely used today by averagely about 82% of the universe. I thou
 2. [Youtube](https://www.youtube.com/results?search_query=how+the+internet+works)
 3. [The Internet explained](https://www.vox.com/2014/6/16/18076282/the-internet)
 4. [How does the internet work](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+5. [The Internet Engineering Task Force](https://www.ietf.org/)
 
 
 ## Learning objectives
@@ -22,5 +23,9 @@ By the end of this session, you should be able to explain this concepts to a fiv
 * [X] Internet routing hierarchy 
 * [X] How to use ```ping``` and ```traceroute``` commands and what happens in the hood when used 
 * [X] Domain Names, DNS Servers and name resolutions
-* [X] Buzzwords 
-        - IXP
+* [X] IXP
+* [X] ISP
+* [X] NSP
+* [X] IP Addresses
+* [X] NAP
+* [X] MAE 
