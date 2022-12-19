@@ -55,4 +55,6 @@ Fred Halsall.
 Addison-Wesley, Harlow, England. 1996. 
 5. Telecommunications: Protocols and Design.
 John D. Spragins with Joseph L. Hammond and Krzysztof Pawlikowski.
-Addison-Wesley, Reading, Massachusetts. 1992. 
+Addison-Wesley, Reading, Massachusetts. 1992.
+
+Thats it for today, see you in the [next](../day01/README.md) session
