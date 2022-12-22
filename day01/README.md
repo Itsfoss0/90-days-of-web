@@ -9,3 +9,4 @@ Web browser are the most widely used pieces of software, in this session, we wil
 ## Resources
 1. [How web browser work](https://web.dev/howbrowserswork/)
 2. [Browser Rendering Engine and its roles](https://www.browserstack.com/guide/browser-rendering-engine)
+3. [Populating the website](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
