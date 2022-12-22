@@ -22,3 +22,4 @@ After going through all of the above resources, you should be able to explain th
 * [X] The architecture of web browsers
 * [X] The basic browser components
 * [X] What is parsing
+* [X] What is the role of the rending engine
