@@ -23,5 +23,5 @@ After going through all of the above resources, you should be able to explain th
 * [X] The basic browser components
 * [X] What is parsing
 * [X] What happens during parsing
-* [X] 
+* [X] What is rendering
 * [X] What is the role of the rending engine
