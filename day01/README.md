@@ -16,3 +16,4 @@ Web browser are the most widely used pieces of software, in this session, we wil
 6. [Youtube](https://www.youtube.com/results?search_query=how+browsers+work)
 
 ## Learning objectives
+After going through all of the above resources, you should be able to explain the following concepts to a five year old
