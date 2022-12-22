@@ -7,4 +7,4 @@ In our [previous](../day00) session, we introduced briefly the history and archi
 Web browser are the most widely used pieces of software, in this session, we will  take a deep dive at what happens behind the scenes when you type that search term on google and explain how web browsers work 
 
 ## Resources
-1. 
+1. [How web browser work](https://web.dev/howbrowserswork/)
