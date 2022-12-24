@@ -8,3 +8,4 @@ HTTP is the communication standards' protocol that dictates how a client (your b
 
 ## Resources
 1. [What is HTTP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+2. [How HTTP works - in a comic](https://howhttps.works/)
