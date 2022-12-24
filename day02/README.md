@@ -12,3 +12,4 @@ HTTP is the communication standards' protocol that dictates how a client (your b
 3. [HTTP overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 4. [Jounrey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
 5. [HTTP/3 core concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+6. [HTTP/3 is the new standard](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/)
