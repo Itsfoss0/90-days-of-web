@@ -15,3 +15,7 @@ HTTP is the communication standards' protocol that dictates how a client (your b
 6. [HTTP/3 is the new standard](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/)
 7. [HTTP crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 8. [Google](https://www.google.com/search?q=how+http+works)
+
+## Learning objectives
+
+By the end of this session, you should be able to explain the following concepts to a five year old.
