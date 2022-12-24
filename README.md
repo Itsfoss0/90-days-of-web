@@ -7,3 +7,5 @@ In this repo, we  will explore the  Web Developement field in 90 days.
 [Day 00 ](./day00/) - How the internet works 
 
 [Day 01 ](./day01/) - Browsers and how they work
+
+[Day 02](./day02/) - How HTTP works
