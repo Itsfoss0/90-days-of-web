@@ -10,3 +10,4 @@ HTTP is the communication standards' protocol that dictates how a client (your b
 1. [What is HTTP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 2. [How HTTP works - in a comic](https://howhttps.works/)
 3. [HTTP overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+4. [Jounrey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth)
