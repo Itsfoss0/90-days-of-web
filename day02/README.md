@@ -4,4 +4,6 @@
 In our [previous](../day01) session, we talked about browsers and how they work under the hood. I remember mumbling a bunch of buzzwords like HTTP. In this session, we will explore what HTTP is and why is it important. 
 
 ## Intro
-HTTP is the communication standards' protocol that dictates how a client (your browser) communicates with a sever ( the web server)
+HTTP is the communication standards' protocol that dictates how a client (your browser) communicates with a sever ( the web server). Lets explore it in detail
+
+## Resources
