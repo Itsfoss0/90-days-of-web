@@ -19,3 +19,5 @@ HTTP is the communication standards' protocol that dictates how a client (your b
 ## Learning objectives
 
 By the end of this session, you should be able to explain the following concepts to a five year old.
+
+* [X] What is HTTP
