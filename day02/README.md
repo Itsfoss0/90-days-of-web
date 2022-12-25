@@ -26,3 +26,11 @@ By the end of this session, you should be able to explain the following concepts
 * [X] Different HTTP request methods
 * [X] Proxies in HTTP
 * [X] Common HTTP verbs and what each does 
+
+## Wrapping Up 
+
+
+
+## Bibliography
+The following materials are useful, you might wanna take a look. 
+1. HTTP/3 Explained: Discover the design decisions behind QUIC and HTTP/3 and practical techniques to implement them
