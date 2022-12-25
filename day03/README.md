@@ -28,4 +28,6 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
  * [X] The parts of a domain name
  * [X] Difference between domain name and URL
  * [X] What the heck is DNS and how does it work
- * [X]
+ * [X] The DNS query pipeline
+ * [X] The four servers involved in DNS resolution
+ * [X] 
