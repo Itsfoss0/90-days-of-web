@@ -23,3 +23,9 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
 
  ## Learning objectives
  After going through the above resources, you should be able to explain the following concepts to a five year old
+
+ * [X] What is a domain
+ * [X] The parts of a domain name
+ * [X] Difference between domain name and URL
+ * [X] What the heck is DNS and ow does it work
+ * [X]
