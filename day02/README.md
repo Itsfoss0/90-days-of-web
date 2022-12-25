@@ -25,3 +25,4 @@ By the end of this session, you should be able to explain the following concepts
 * [X] Different HTTP status codes
 * [X] Different HTTP request methods
 * [X] Proxies in HTTP
+* [X] Common HTTP verbs and what each does 
