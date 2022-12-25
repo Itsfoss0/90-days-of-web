@@ -30,4 +30,6 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
  * [X] What the heck is DNS and how does it work
  * [X] The DNS query pipeline
  * [X] The four servers involved in DNS resolution
- * [X] 
+ * [X] What is a CNAME record
+ * [X] DNS resolution for subdomains
+ * [X] What is DNS caching 
