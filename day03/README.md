@@ -15,3 +15,6 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
  3. [How does DNS work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
  4. [Youtube](https://www.youtube.com/results?search_query=how+DNS+works)
  5. [Google](https://www.google.com/search?q=how+DNS+works)
+ 6. [Mess with DNS - DNS playground](https://messwithdns.net/)
+ 7. [How DNS works (comic)](https://howdns.works/ep1/)
+ 8. [DNS records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
