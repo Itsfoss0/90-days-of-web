@@ -9,3 +9,9 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
  Since the addresse are really complex, DNS helps us by giving us the chance to remeber the domain (google.com) instead of the  very complex numbers. It takes care of translating the domain names into their respective addresse. Cool Right?
 
  ## Resources 
+ 
+ 1. [What is a domain name](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+ 2. [What is DNS](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+ 3. [How does DNS work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
+ 4. [Youtube](https://www.youtube.com/results?search_query=how+DNS+works)
+ 5. [Google](https://www.google.com/search?q=how+DNS+works)
