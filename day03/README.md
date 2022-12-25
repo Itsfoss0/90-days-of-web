@@ -27,5 +27,5 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
  * [X] What is a domain
  * [X] The parts of a domain name
  * [X] Difference between domain name and URL
- * [X] What the heck is DNS and ow does it work
+ * [X] What the heck is DNS and how does it work
  * [X]
