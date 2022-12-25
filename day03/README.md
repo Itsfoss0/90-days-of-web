@@ -20,3 +20,6 @@ DNS is the phonebook of the internet. It maps domain names to the respective IP 
  8. [DNS records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
  9. [Glue Records](https://www.youtube.com/watch?v=e48AyJOA9W8)
  10. [All about DNS records](https://www.youtube.com/watch?v=YV5tkQYcvfg)
+
+ ## Learning objectives
+ After going through the above resources, you should be able to explain the following concepts to a five year old
