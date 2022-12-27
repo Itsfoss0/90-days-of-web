@@ -15,6 +15,8 @@ You could  have this million dollar statup idea, build your very beatiful websit
 3. [The different types of web hosting](https://www.techradar.com/web-hosting/what-are-the-different-types-of-web-hosting)
 4. [Host your fullstack website on a tight budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
 5. [How to put your website online](https://www.youtube.com/watch?v=NQP89ish9t8)
+6. [Google](https://www.google.com/search?q=web+hosting)
+7. [Youtube](https://www.youtube.com/results?search_query=web+hosting)
 
 ## Learning objectives
 After going through the above resources, you should be able to explain these concepts to a five year old.
