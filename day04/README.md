@@ -21,3 +21,6 @@ You could  have this million dollar statup idea, build your very beatiful websit
 ## Learning objectives
 After going through the above resources, you should be able to explain these concepts to a five year old.
 
+* [X] What is web hosting
+* [X] How is web hosting different from Domain hosting
+* [X] Different web hosting options
