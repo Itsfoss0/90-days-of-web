@@ -25,3 +25,4 @@ After going through the above resources, you should be able to explain these con
 * [X] How is web hosting different from Domain hosting
 * [X] Different web hosting options
 * [X] What are the pros and trade-offs of each option
+* [X] When should one consider switching from one hosting option to another
