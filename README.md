@@ -11,3 +11,5 @@ In this repo, we  will explore the  Web Developement field in 90 days.
 [Day 02](./day02/) - How HTTP works
 
 [Day 03](./day03/) - DNS and how it works
+
+[Day 04](./day04/) - Web Hosting
