@@ -26,3 +26,6 @@ After going through the above resources, you should be able to explain these con
 * [X] Different web hosting options
 * [X] What are the pros and trade-offs of each option
 * [X] When should one consider switching from one hosting option to another
+
+
+Thats it for today. See you in our [next](../day05/) session
