@@ -10,3 +10,8 @@ You could  have this million dollar statup idea, build your very beatiful websit
 
 
 ## Resources 
+1. [What is Web hosting](https://www.youtube.com/watch?v=htbY9-yggB0) - In English please :V
+2. [Different types of web hosting explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
+3. [The different types of web hosting](https://www.techradar.com/web-hosting/what-are-the-different-types-of-web-hosting)
+4. [Host your fullstack website on a tight budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
+5. [How to put your website online](https://www.youtube.com/watch?v=NQP89ish9t8)
