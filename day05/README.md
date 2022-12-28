@@ -6,7 +6,7 @@ We have just finished the first module of our 90 days
 In our [previous](../day04) session, we talked a little bit about hosting, the different hosting options, the pros and cons of each option. 
 
 ## Intro 
-In this session, we will have a high level overview of HTML and its basic syntax
+HTML, short for Hyper Text Markup Language is a markup language used to structure websties. In this session, we will have a high level overview of HTML and its basic syntax
 
 Take a look at the following resources
 
@@ -20,3 +20,12 @@ Take a look at the following resources
 7. [Developing websites with HTML](https://www.scaler.com/topics/html)
 
 ## Learning objectives
+By the end of this session, you should be able to explain the following concepts to a five year old
+
+* [X] What is HTML
+* [X] The most common HTML elements
+* [X] What are tags
+* [X] Which tags are self closing
+* [X] What is the purpose of ```<! DOCYTPE HTML>```
+
+## Practice
