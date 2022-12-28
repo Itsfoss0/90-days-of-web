@@ -15,3 +15,5 @@ In this repo, we  will explore the  Web Developement field in 90 days.
 [Day 04](./day04/) - Web Hosting
 
 ## HTML 
+
+[Day 05](./day05/) - Intro to HTML
