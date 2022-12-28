@@ -26,6 +26,18 @@ After going through the above resources, you should be able to explain these con
 * [X] Different web hosting options
 * [X] What are the pros and trade-offs of each option
 * [X] When should one consider switching from one hosting option to another
+* [X] What are some of the hosting service providers out there
 
+## Wrapping Up
+So basicaly, hosting is what you do to make your website accessible by anyone on the internet
+
+These are the most common hosting solutions 
+
+* __Shared Hosting__ - The cheapest 
+* __VPS__ 
+* __Dedicated Hosting__
+* __Managed Hosting__
+
+For starting out, I recommend using shared hosting unless you know what you are doing
 
 Thats it for today. See you in our [next](../day05/) session
