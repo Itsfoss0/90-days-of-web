@@ -2,6 +2,8 @@
 
 We have just finished the first module of our 90 days 
 
+![giffy](https://media0.giphy.com/media/WCQ6rN7URbbVkS0qTT/200w.webp?cid=ecf05e47i0waq28fyb6lu52d6u0gjwjxrr40obspc00arhym&rid=200w.webp&ct=g)
+
 ## Day 05 of 90 
 In our [previous](../day04) session, we talked a little bit about hosting, the different hosting options, the pros and cons of each option. 
 
