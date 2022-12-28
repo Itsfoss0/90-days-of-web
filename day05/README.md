@@ -16,3 +16,5 @@ Take a look at the following resources
 3. [Getting started with HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 4. [HTML course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 5. [HTML for beginners](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+6. [HTML cheat sheet](https://htmlcheatsheet.com/)
+7. [Developing websites with HTML](https://www.scaler.com/topics/html)
