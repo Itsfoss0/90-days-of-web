@@ -18,3 +18,5 @@ Take a look at the following resources
 5. [HTML for beginners](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 6. [HTML cheat sheet](https://htmlcheatsheet.com/)
 7. [Developing websites with HTML](https://www.scaler.com/topics/html)
+
+## Learning objectives
