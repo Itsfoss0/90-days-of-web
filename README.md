@@ -18,4 +18,4 @@ In this repo, we  will explore the  Web Developement field in 90 days.
 
 [Day 05](./day05/) - Intro to HTML
 
-[Day 06](./day06/) - HTML forms 
+[Day 06](./day06/) - HTML forms and inputs
