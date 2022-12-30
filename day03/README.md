@@ -33,3 +33,7 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
  * [X] What is a CNAME record
  * [X] DNS resolution for subdomains
  * [X] What is DNS caching 
+ * [X] What are A records
+ * [X] What are MX records 
+ * [X] What are TXT records and some examples of it
+ * [X] What are NS records
