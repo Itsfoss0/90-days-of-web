@@ -51,7 +51,12 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
     - __Authoritave Nameserver__ - This stores the actual domain records
 - DNS records ares instructions living in the authoritative nameserver that  provide information about a domain.Some of the most common DNS records include: 
 
-    - __A record__ - For IP address lookup and [DNSBL](https://www.google.com/search?q=dnsbl)(more on this letter)
+    - __A record__ - For IP address lookup and [DNSBL](https://www.google.com/search?q=dnsbl)(more on this letter). Thanks to this, we can visit websites we dont even know their IP addresses :) 
+    - __AAAA record__ - It's like the A record, except is points to the IPv6 addresses
+    - __CNAME record__ - Which points a domain name (alias) to another domain name. Mostly used in subdomains
+    - __NS record__ - Specifies the authoritative nameserver for a domain
+    - __MX record__ - Specifies where the emails for a domain should be routed, making it possible to direct emails to a mail server
+    - __TXT records__ - For verification and security. Include SPF records and DKIM records which helps identify your domain as a trusted source for email systems. This helps your emails from being treated as spam
 
 
 Thats it for today, see you in the [next](../day04) session
