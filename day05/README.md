@@ -25,6 +25,7 @@ Take a look at the following resources
 By the end of this session, you should be able to explain the following concepts to a five year old
 
 * [X] What is HTML
+* [X] Why isn't HTML considered a programming language?
 * [X] The most common HTML elements
 * [X] What are tags
 * [X] Which tags are self closing
