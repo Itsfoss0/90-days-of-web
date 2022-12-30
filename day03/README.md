@@ -6,7 +6,7 @@ In our [previous](../day02) session, we discussed HTTP and its  role in Websites
 ## Intro
 I'm pretty sure I speak for everyone when I say that it is easier to find your friends number in your phonebook by searching their name rather than having to remember their phone number. DNS is the phonebook of the internet. It maps domain names to the respective IP addresses, so that users dont have to remember the complex IP address of websites and just remember the domain names instead.  Web servers where websites are hosted have addresses known as IP addresses to identify them (an example is google.com  whose IP address is 172.217.170.206). You can copy and paste the adress directly into your browser and you will be taken to [Google's](https://google.com) home page.
 
- Since the addresse are really complex, DNS helps us by giving us the chance to remeber the domain (google.com) instead of the  very complex numbers. It takes care of translating the domain names into their respective addresse. Cool Right?
+ Since the addresse are really complex, DNS helps us by giving us the chance to remeber the domain (google.com) instead of the  very complex numbers. It takes care of translating the domain names into their respective addresses. Cool Right?
 
  ## Resources 
  
