@@ -45,5 +45,9 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
  - DNS is the phonebook of the internet
  - Nameservers make up the DNS, they hold dns records and map domain names to IP addresses
  - The four DNS servers are 
-    - __DNS resolver__  wich is like the midleman between the end user and the other DNS servers. It also checks for cached records, and caches and stores results of DNS queries 
-    - 
+    - __DNS resolver__  (operated by the ISP) which is like the midleman between the end user and the other DNS servers. It also checks for cached records, and caches and stores results of DNS queries 
+    - __Root Nameserver__ - Theres really not alot of these, around 13 or so in the whole world
+    - __TLD Nameserver__ 
+    - __Authoritave Nameserver__ - This stores the actual domain records
+
+    
