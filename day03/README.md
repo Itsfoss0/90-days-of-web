@@ -57,6 +57,12 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
     - __NS record__ - Specifies the authoritative nameserver for a domain
     - __MX record__ - Specifies where the emails for a domain should be routed, making it possible to direct emails to a mail server
     - __TXT records__ - For verification and security. Include SPF records and DKIM records which helps identify your domain as a trusted source for email systems. This helps your emails from being treated as spam
+- Just to mention some security concerns with DNS (They are beyond the scope of this session and we will not look at them in detail) 
 
+    - DNS reflection and amplification attacks 
+    - Typosquating
+    - DNS cache poisoning 
+
+    
 
 Thats it for today, see you in the [next](../day04) session
