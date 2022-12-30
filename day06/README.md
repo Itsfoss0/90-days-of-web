@@ -9,3 +9,4 @@
 Whenever you will want to get data from the client(user), you will use forms. Be it for usernames, passwords, search terms or any other feature that your creativity will implement, forms are the primary tool. Lets see how to implement forms 
 
 ## Resources
+1. [HTML forms in 25 minutes](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
