@@ -51,4 +51,4 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
     - __Authoritave Nameserver__ - This stores the actual domain records
 
 
-Thats it for today, see you in the [next](./day04) session
+Thats it for today, see you in the [next](../day04) session
