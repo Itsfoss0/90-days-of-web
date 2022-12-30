@@ -40,3 +40,10 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
  * [X] What are TXT records and some examples of it
  * [X] What are NS records
  * [X] Security concerns associated with DSN
+
+ ## Wrapping up
+ - DNS is the phonebook of the internet
+ - Nameservers make up the DNS, they hold dns records and map domain names to IP addresses
+ - The four DNS servers are 
+    - __DNS resolver__  wich is like the midleman between the end user and the other DNS servers. It also checks for cached records, and caches and stores results of DNS queries 
+    - 
