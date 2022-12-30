@@ -31,4 +31,6 @@ By the end of this session, you should be able to explain the following concepts
 * [X] Which tags are self closing
 * [X] What is the purpose of ```<! DOCYTPE HTML>```
 
-## Practice
+## Wrapping UP
+* HTML is a markup language used to structure web applications
+* HTML is not a programming languages because it doesnt incooperate the use of variables and programm control structures on its own.
