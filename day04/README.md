@@ -1,4 +1,4 @@
-![internet](./avatar.jpg)
+![internet](../avatar.jpg)
 
 
 ## Day 04 of 90 
