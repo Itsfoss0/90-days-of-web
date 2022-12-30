@@ -30,11 +30,13 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
  * [X] Difference between domain name and URL
  * [X] What the heck is DNS and how does it work
  * [X] The DNS query pipeline
- * [X] The four servers involved in DNS resolution
+ * [X] Recusive DNS lookup VS iterative lookup
+ * [X] The four servers involved in a DNS lookup ( assuming the address is not cached)
  * [X] What is a CNAME record
- * [X] DNS resolution for subdomains
+ * [X] How does  resolution for subdomains happen?
  * [X] What is DNS caching 
  * [X] What are A records
  * [X] What are MX records 
  * [X] What are TXT records and some examples of it
  * [X] What are NS records
+ * [X] Security concerns associated with DSN
