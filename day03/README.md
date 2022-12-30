@@ -49,6 +49,9 @@ I'm pretty sure I speak for everyone when I say that it is easier to find your f
     - __Root Nameserver__ - Theres really not alot of these, around 13 or so in the whole world
     - __TLD Nameserver__ 
     - __Authoritave Nameserver__ - This stores the actual domain records
+- DNS records ares instructions living in the authoritative nameserver that  provide information about a domain.Some of the most common DNS records include: 
+
+    - __A record__ - For IP address lookup and [DNSBL](https://www.google.com/search?q=dnsbl)(more on this letter)
 
 
 Thats it for today, see you in the [next](../day04) session
