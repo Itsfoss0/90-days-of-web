@@ -35,3 +35,6 @@ By the end of this session, you should be able to explain the following concepts
 * HTML is a markup language used to structure web applications
 * HTML is not a programming languages because it doesn't incooperate the use of variables and program control structures on its own.
 * Elements in HTML begin with <> and end in </> except for the self closing elements which include b and img. 
+
+
+Thats it for today, see you in the [next](../day06) session. 
