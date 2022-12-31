@@ -21,3 +21,4 @@ By the end of this session, you should be able to explain the following concepts
 
 * [X] What does the ```<textarea>``` tag do
 * [X] How to use forms to get data from the user
+* [X] What is the ```<form>``` element
