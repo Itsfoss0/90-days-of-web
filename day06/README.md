@@ -24,3 +24,4 @@ By the end of this session, you should be able to explain the following concepts
 * [X] What is the ```<form>``` element
 * [X] How is the data submited from the form 
 * [X] Where is the data processed
+* [X] What is the method attribute in a form element
