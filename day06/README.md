@@ -12,3 +12,4 @@ Whenever you will want to get data from the client(user), you will use forms. Be
 1. [HTML forms in 25 minutes](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
 2. [Client side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 3. [Learn forms by Web.dev](https://web.dev/learn/forms/)
+4. [W3 schools - form validation](https://www.w3schools.com/js/js_validation.asp)
