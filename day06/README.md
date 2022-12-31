@@ -17,4 +17,6 @@ Whenever you will want to get data from the client(user), you will use forms. Be
 6. [Google](https://www.google.com/search?q=html+forms)
 
 ## Learning objectives
-By the end of this session, you should be able to explain the following concepts to a five year old :) 
+By the end of this session, you should be able to explain the following concepts to a five year old :)
+
+* [X] What does the ```<textarea> tag do?
