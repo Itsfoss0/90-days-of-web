@@ -14,3 +14,4 @@ Whenever you will want to get data from the client(user), you will use forms. Be
 3. [Learn forms by Web.dev](https://web.dev/learn/forms/)
 4. [W3 schools - form validation](https://www.w3schools.com/js/js_validation.asp)
 5. [Youtube](https://www.youtube.com/results?search_query=HTML+forms)
+6. [Google](https://www.google.com/search?q=html+forms)
