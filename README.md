@@ -22,6 +22,8 @@ In this repo, we  will explore the  Web Developement field in 90 days.
 
 [Day 07](./day07/) - HTML best practices
 
+[Day 08](./day08/) - Acessibility and SEO
+
 
 ## CSS
-[Day 08](./day08/) - CSS Basics
+[Day 09](./day08/) - CSS Basics
