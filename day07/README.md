@@ -18,3 +18,4 @@ You dont have to know what SEO is, we will look at that in the future.
 2. [Build better HTML based websites](https://www.freecodecamp.org/news/html-best-practices/)
 3. [Google](https://www.google.com/search?q=html+best+practices)
 4. [50 HTML best practices and guidelines](https://medium.com/before-semicolon/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
+5. [Best HTML practices for beginers](https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/)
