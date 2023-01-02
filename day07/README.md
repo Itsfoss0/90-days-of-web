@@ -11,3 +11,6 @@ In our [previous](../day06/) session, we discussed HTML forms and validations. W
 
 
 Lets learn how to write mantainable and scalable HTML Documents that wont get you banging your head around the table the next time you want to refactor or optimize your code. 
+
+## Resources
+1. [HTML Best practices](https://github.com/hail2u/html-best-practices)
