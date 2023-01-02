@@ -1,7 +1,5 @@
 ![internet](../avatar.jpg)
 > HTML Best practices
 
-Its the new year's eve man, Get some rest, lets get back to this next year :) 
-
-Love y'all. 
-Happy New Year <3
+## Day 07 of 90
+In our [previous](../day06/) session, we discussed HTML forms and validations. We are done with the HTML basics and its now time to learn the best practices when writting your HTML code. 
