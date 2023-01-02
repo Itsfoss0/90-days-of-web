@@ -22,3 +22,8 @@ You dont have to know what SEO is, we will look at that in the future.
 
 ## Learning objectives.
 After going through the above resources, you should know the  best practices for writing maintainable and scalable HTML documents.
+
+
+## Wrapping up.
+
+That's it for this session, hope you enjoyed it. See you in the [next](../day08/)
