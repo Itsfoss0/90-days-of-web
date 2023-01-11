@@ -28,7 +28,7 @@ In this repo, we  will explore the  Web Developement field in 90 days.
 ## CSS
 [Day 09](./day09/) - CSS Basics
 
-[Day 10](./day10/) - Making Layouts
+[Day 10](./day10/) - Positioning Fundamentals
 
 [Day 11](./day11/) - CSS Flexbox
 
