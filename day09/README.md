@@ -29,3 +29,5 @@ Take a look at the following resources.
 5. [CSS crash course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 6. [HTML and CSS tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
 7. [CSS master class](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
+8. [Google](https://www.google.com/search?q=Learn+CSS)
+9. [Youtube](https://www.youtube.com/results?search_query=learn+CSS)
