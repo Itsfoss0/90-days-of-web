@@ -19,3 +19,13 @@ By the end of this session, you should be able to explain the following concepts
 * [X] Typography
 * [X] The Box model
 * [X] CSS units
+
+## Resources
+Take a look at the following resources.
+1. [W3schools - Learn CSS](https://www.w3schools.com/css/)
+2. [Web.dev - Learn CSS](https://web.dev/learn/css/)
+3. [Learn to code HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+4. [Responsive Web design](https://www.freecodecamp.org/learn/responsive-web-design/)
+5. [CSS crash course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+6. [HTML and CSS tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+7. [CSS master class](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
