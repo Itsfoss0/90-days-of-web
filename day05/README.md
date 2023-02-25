@@ -1,4 +1,4 @@
-![internet](../avatar.jpg)
+![Internet](../assets/avatar.jpg)
 
 >We have just finished the first module of our 90 days 
 

@@ -1,4 +1,4 @@
-![internet](../avatar.jpg)
+![Internet](../assets/avatar.jpg)
 
 ## Day 09 of 90
 In all of our previous sessions, we have handled the layout and structure of elements in the webapages.

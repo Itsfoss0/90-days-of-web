@@ -1,4 +1,4 @@
-<img src="./avatar.jpg" alt="the-internet" >
+<img src="./assets/avatar.jpg" alt="the-internet" >
 
 # Introduction to Web Development
 In this repo, we  will explore the  Web Developement field in 90 days. 

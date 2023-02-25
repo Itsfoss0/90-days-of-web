@@ -1,4 +1,4 @@
-![Internet](../avatar.jpg)
+![Internet](../assets/avatar.jpg)
 
 ## Day 00 of 90 
 Where to Begin? Day 00 of the 90 days of web. Getting to undertand what the internet is, how and why it came around and the have a high level view of how it works 
