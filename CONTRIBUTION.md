@@ -34,3 +34,15 @@ git commit -m "Commit Message"
 git push origin <branch-name>
 
 ```
+
+## **Naming guidelines**
+
+### _Naming folders_
+- Use lowercase letters
+- Use two digit numbers for the day i.e _day00_, _day90_ etc
+
+### _Naming **`.md`** files_
+- Use uppercase letters
+- If there is more than one word, separate with an underscore **_**
+```
+
