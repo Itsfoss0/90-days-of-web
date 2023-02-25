@@ -1,4 +1,4 @@
-![internet](../avatar.jpg)
+![Internet](../assets/avatar.jpg)
 
 > HTML forms
 
